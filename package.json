@@ -11,7 +11,7 @@
     "@wellyshen/use-web-animations": "^0.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typewriter-effect": "^2.13.1"
   },
   "scripts": {
